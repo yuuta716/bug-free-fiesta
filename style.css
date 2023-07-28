@@ -206,6 +206,8 @@ button {
 
   .top-1 h1 {
     margin-top: 32px;
+    display: flex;
+    transform: translateX(48%);
   }
 
   .about address,p{
@@ -223,6 +225,8 @@ button {
 
   .Works h1 {
     margin-bottom: 32px;
+    display: flex;
+    transform: translateX(46%);
   }
 
   .Works ul {
@@ -245,6 +249,8 @@ button {
 
   .News h1 {
     margin-bottom: 32px;
+    display: flex;
+    transform: translateX(49%);
   }
 
   .News tr {
@@ -268,6 +274,8 @@ button {
 
   .contact h1 {
     margin-bottom: 32px;
+    display: flex;
+    transform: translateX(45%);
   }
 
   .contact td {
